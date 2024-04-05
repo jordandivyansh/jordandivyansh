@@ -2,7 +2,7 @@
 <h3 align="center">A 2023 Graduate from IIIT Gwalior and a passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordandivyansh&label=Profile%20views&color=0e75b6&style=flat" alt="jordandivyansh" /> </p>
-- 👨🏻‍💻 I’m currently working with Axtria R&D **SalesIQ using NextJS**
+- 👨🏻‍💻 I’m currently working with Axtria R&D - SalesIQ using NextJS
 
 - 💻  I’ve previously worked with [Codeyoung](https://www.linkedin.com/company/smaowl9//), [Hubilo](https://www.linkedin.com/company/hubilo/?originalSubdomain=in), [Rakuten Symphony(Mobile)](https://www.linkedin.com/company/rakuten-mobile-network-inc/), and [Rakuten India(SixthSense)](https://www.linkedin.com/company/rakuten-india/).
 
